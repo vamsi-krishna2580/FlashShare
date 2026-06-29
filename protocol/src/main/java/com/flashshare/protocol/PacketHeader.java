@@ -1,4 +1,4 @@
-package com.flashshare.core.protocol;
+package com.flashshare.protocol;
 
 import java.util.UUID;
 

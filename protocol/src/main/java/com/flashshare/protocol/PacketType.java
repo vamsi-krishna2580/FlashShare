@@ -1,4 +1,4 @@
-package com.flashshare.core.protocol;
+package com.flashshare.protocol;
 
 public enum PacketType {
     DISCOVER,
